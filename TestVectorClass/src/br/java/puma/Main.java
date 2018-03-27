@@ -20,9 +20,13 @@ public class Main
 				num = (int) (Math.random() * 100);
 				inteiros.addElement(num);
 			}
+			//to print vector's elements
 			op.imprimirVector(inteiros, "random");
+			//to print vector's elements in ascending order
 			op.ordenarItemsVector(inteiros, 'A');
+			//to print vector's elements in descending order
 			op.ordenarItemsVector(inteiros, 'D');
+			//to separate vector's elements in pairs and impairs
 			op.separarItemsVector(inteiros);
 		} catch (Exception e) {
 			// TODO: handle exception
