@@ -1,0 +1,2 @@
+Mantenimiento desarrollado en lenguaje de programacion Java utilizando las herramientas provistas por la GUI de Swing. 
+Para obtener la información a manipular en el mantenimiento se hace uso de una conexion a base de datos SQL server.
