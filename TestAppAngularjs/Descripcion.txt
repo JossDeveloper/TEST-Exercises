@@ -1,0 +1,2 @@
+Aplicacion de listado de posts desarrollada con JavaScript utilizando AngularJS y Lumx para el diseño y estereotipado del entorno visual.
+Posts obtenidos desde api provista por https://jsonplaceholder.typicode.com
